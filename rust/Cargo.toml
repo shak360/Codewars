@@ -1,9 +1,16 @@
-
-
 [workspace]
 
 members = [
     "multiply",
+    "reverse_words",
+    "square_sum",
+    "multiples_of_three_and_five",
+    "alphabet_position",
+    "complementary_dna",
+    "exes_and_ohs",
+    "delete_nth",
+    "directions_reduction",
+    "split_strings",
     "roman_numerals_encoder",
-    "reverse_words"
+    "round_to_next_5"
 ]
