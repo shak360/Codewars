@@ -1,1 +1,0 @@
-/Users/svisagan/Programs/learning/learning-rust/codewars/roman_numerals_encoder/target/debug/roman_numerals_encoder: /Users/svisagan/Programs/learning/learning-rust/codewars/roman_numerals_encoder/src/main.rs
