@@ -3,6 +3,30 @@
 version = 3
 
 [[package]]
+name = "alphabet_position"
+version = "0.1.0"
+
+[[package]]
+name = "complementary_dna"
+version = "0.1.0"
+
+[[package]]
+name = "delete_nth"
+version = "0.1.0"
+
+[[package]]
+name = "directions_reduction"
+version = "0.1.0"
+
+[[package]]
+name = "exes_and_ohs"
+version = "0.1.0"
+
+[[package]]
+name = "multiples_of_three_and_five"
+version = "0.1.0"
+
+[[package]]
 name = "multiply"
 version = "0.1.0"
 
@@ -12,4 +36,16 @@ version = "0.1.0"
 
 [[package]]
 name = "roman_numerals_encoder"
+version = "0.1.0"
+
+[[package]]
+name = "round_to_next_5"
+version = "0.1.0"
+
+[[package]]
+name = "split_strings"
+version = "0.1.0"
+
+[[package]]
+name = "square_sum"
 version = "0.1.0"
