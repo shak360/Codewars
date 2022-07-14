@@ -27,7 +27,6 @@ fn num_as_roman(num: i32) -> String {
     res.join("") // join and return as string
 }
 
-
 fn main() {
     assert_eq!(num_as_roman(182), "CLXXXII");
     assert_eq!(num_as_roman(1990), "MCMXC");
