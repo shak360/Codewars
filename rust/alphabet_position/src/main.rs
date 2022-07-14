@@ -1,4 +1,6 @@
 fn alphabet_position(text: &str) -> String {
+    // Given a string, replace every letter with its position in the alphabet.
+    // If anything in the text isn't a letter, ignore it and don't return it.
     text.chars()
         .filter_map(|c| match c.is_alphabetic() {
             true => c.to_digit(36),
